@@ -1,14 +1,13 @@
 
-public class Exam01ÀÌ¸§³ªÀÌ {
+public class Exam01ì´ë¦„ë‚˜ì´ {
 
 	public static void main(String[] args) {
-		//¹®ÀÚ¿­ º¯¼ö
-		String name = "°­¹ü¼ö";
+		//ë¬¸ìì—´ ë³€ìˆ˜
+		String name = "ê°•ë²”ìˆ˜";
 		System.out.println(name);
 		
-		// »ó¼ö -º¯ÇÏÁö¾Ê´Â °ªÀ» °¡Áø ¼ö ±Ô°İ,¿øÁÖÀ²
+		// ìƒìˆ˜ -ë³€í•˜ì§€ì•ŠëŠ” ê°’ì„ ê°€ì§„ ìˆ˜ ê·œê²©,ì›ì£¼ìœ¨
 		final int age = 24;
-		
 		
 		
 	}
