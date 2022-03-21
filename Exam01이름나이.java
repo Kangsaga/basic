@@ -9,7 +9,6 @@ public class Exam01이름나이 {
 		// 상수 -변하지않는 값을 가진 수 규격,원주율
 		final int age = 24;
 		
-		
 	}
 		
 
